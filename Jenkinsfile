@@ -1,5 +1,5 @@
 
-@Library("jenkins-integrated") _
+@Library("jenkins-integrated@master") _
 
 pipeline {
     agent any
